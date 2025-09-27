@@ -109,7 +109,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-<img src="![alt text](<Screenshot (23).png>)>
+![alt text](<Screenshot (34).png>)
 
 
 ## RESULT
